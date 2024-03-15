@@ -1,0 +1,9 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/mohit/Desktop/DIGITAL SYSTEM/FNN/First_Submission/First_Submission.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+C:/Users/mohit/Desktop/DIGITAL SYSTEM/FNN/First_Submission/First_Submission.srcs/sources_1/imports/new/Receiving.v,1710431595,verilog,,C:/Users/mohit/Desktop/DIGITAL SYSTEM/FNN/First_Submission/First_Submission.srcs/sources_1/imports/new/Transmitter.v,,Receiving,,,,,,,,
+C:/Users/mohit/Desktop/DIGITAL SYSTEM/FNN/First_Submission/First_Submission.srcs/sources_1/imports/new/Transmitter.v,1710461952,verilog,,C:/Users/mohit/Desktop/DIGITAL SYSTEM/FNN/First_Submission/First_Submission.srcs/sources_1/new/UART_BRAM.v,,Transmitter,,,,,,,,
+C:/Users/mohit/Desktop/DIGITAL SYSTEM/FNN/First_Submission/First_Submission.srcs/sources_1/ip/bram_1/sim/bram_1.v,1710523991,verilog,,C:/Users/mohit/Desktop/DIGITAL SYSTEM/FNN/First_Submission/First_Submission.srcs/sources_1/imports/new/Receiving.v,,bram_1,,,,,,,,
+C:/Users/mohit/Desktop/DIGITAL SYSTEM/FNN/First_Submission/First_Submission.srcs/sources_1/new/UART_BRAM.v,1710524037,verilog,,,,UART_BRAM,,,,,,,,

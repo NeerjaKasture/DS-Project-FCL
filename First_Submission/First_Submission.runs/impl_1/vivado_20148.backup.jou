@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Fri Mar 15 23:05:30 2024
+# Process ID: 20148
+# Current directory: C:/Users/mohit/Desktop/DIGITAL SYSTEM/FNN/First_Submission/First_Submission.runs/impl_1
+# Command line: vivado.exe -log UART_BRAM.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source UART_BRAM.tcl -notrace
+# Log file: C:/Users/mohit/Desktop/DIGITAL SYSTEM/FNN/First_Submission/First_Submission.runs/impl_1/UART_BRAM.vdi
+# Journal file: C:/Users/mohit/Desktop/DIGITAL SYSTEM/FNN/First_Submission/First_Submission.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source UART_BRAM.tcl -notrace
